@@ -66,3 +66,4 @@ Youtube：[墙外视频](https://www.youtube.com/watch?v=IHVz8Lpe510&list=PLjjwf
 
 添加语音识别功能
 
+这是A分支新添加的功能
